@@ -16,7 +16,7 @@
 
 ---
 
-### 📦 Projects (Work in Progress)
+### 📦 Projects 
 
 - **🔐 DevOps Lab Setup**  
   An all-in-one local lab with Jenkins, Docker, and Ansible running on CentOS VMs.
