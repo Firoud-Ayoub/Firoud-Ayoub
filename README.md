@@ -32,11 +32,19 @@
 
 ---
 
+### 🧾 Certifications
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+  
+[![Microsoft Azure Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-%230078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+
+---
+
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 💻 [GitHub](https://github.com/your-username)
-- 🧠 Blog (coming soon…)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+
 
 ---
 
